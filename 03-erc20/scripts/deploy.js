@@ -7,7 +7,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contract = await hre.ethers.deployContract("NameYourToken", [1234000000000000000000n]);
+  const contract = await hre.ethers.deployContract("ADAMSON", [2468000000000000000000n]);
 
   await contract.waitForDeployment();
 
