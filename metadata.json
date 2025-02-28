@@ -1,0 +1,13 @@
+{
+    "name": "parkourcoin",
+    "description": "espinili tito ng batangas lipa",
+    "symbol": "SYM"
+    "image": "https://imgur.com/a/yX2oGBE.jpeg"
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "value"
+        }
+    ]
+    
+}
